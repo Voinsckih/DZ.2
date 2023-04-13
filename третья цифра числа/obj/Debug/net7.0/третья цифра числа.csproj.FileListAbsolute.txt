@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.2\третья цифра числа\bin\Debug\net7.0\третья цифра числа.exe
+A:\Git\REP2403\DZ.2\третья цифра числа\bin\Debug\net7.0\третья цифра числа.deps.json
+A:\Git\REP2403\DZ.2\третья цифра числа\bin\Debug\net7.0\третья цифра числа.runtimeconfig.json
+A:\Git\REP2403\DZ.2\третья цифра числа\bin\Debug\net7.0\третья цифра числа.dll
+A:\Git\REP2403\DZ.2\третья цифра числа\bin\Debug\net7.0\третья цифра числа.pdb
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.AssemblyInfo.cs
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.dll
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\refint\третья цифра числа.dll
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.pdb
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\третья цифра числа.genruntimeconfig.cache
+A:\Git\REP2403\DZ.2\третья цифра числа\obj\Debug\net7.0\ref\третья цифра числа.dll

@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.AssemblyInfo.cs
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.2\вторая цифра числа\bin\Debug\net7.0\вторая цифра числа.exe
+A:\Git\REP2403\DZ.2\вторая цифра числа\bin\Debug\net7.0\вторая цифра числа.deps.json
+A:\Git\REP2403\DZ.2\вторая цифра числа\bin\Debug\net7.0\вторая цифра числа.runtimeconfig.json
+A:\Git\REP2403\DZ.2\вторая цифра числа\bin\Debug\net7.0\вторая цифра числа.dll
+A:\Git\REP2403\DZ.2\вторая цифра числа\bin\Debug\net7.0\вторая цифра числа.pdb
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.dll
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\refint\вторая цифра числа.dll
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.pdb
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\вторая цифра числа.genruntimeconfig.cache
+A:\Git\REP2403\DZ.2\вторая цифра числа\obj\Debug\net7.0\ref\вторая цифра числа.dll

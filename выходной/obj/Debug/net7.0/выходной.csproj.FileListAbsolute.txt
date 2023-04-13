@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.AssemblyInfo.cs
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.2\выходной\bin\Debug\net7.0\выходной.exe
+A:\Git\REP2403\DZ.2\выходной\bin\Debug\net7.0\выходной.deps.json
+A:\Git\REP2403\DZ.2\выходной\bin\Debug\net7.0\выходной.runtimeconfig.json
+A:\Git\REP2403\DZ.2\выходной\bin\Debug\net7.0\выходной.dll
+A:\Git\REP2403\DZ.2\выходной\bin\Debug\net7.0\выходной.pdb
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.dll
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\refint\выходной.dll
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.pdb
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\выходной.genruntimeconfig.cache
+A:\Git\REP2403\DZ.2\выходной\obj\Debug\net7.0\ref\выходной.dll
